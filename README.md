@@ -19,6 +19,9 @@
   <a href="https://github.com/palaniprashanth01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://twitter.com/PalaniPrashant3">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
   <a href="mailto:palaniprashanth21@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -27,7 +30,7 @@
 </div>
 <br/>
 ## 📄 Overview
-Research & Content Associate with a completed **M.Tech in Computer Science (Big Data Analytics)**, experienced in AI research documentation, applied AI systems, and real-world data workflows. Hands-on exposure to **LLMs, RAG pipelines, Agentic AI, Computer Vision, and Data Annotation**. Strong ability to translate complex AI concepts into clear technical content, support research initiatives, and contribute to practical, scalable AI applications.
+Research & Content Associate with a completed **M.Tech in Computer Science (Big Data Analytics)**, experienced in AI research documentation, applied AI systems, and real-world data workflows. Hands-on exposure to **LLMs, RAG pipelines, Agentic AI, Computer Vision, and Data Annotation**. Strong ability to translate complex AI concepts into clear technical content.
 ---
 ## ⚒️ Skills & Tools
 <div align="left">
@@ -58,41 +61,40 @@ Research & Content Associate with a completed **M.Tech in Computer Science (Big 
 ## 💼 Experience
 ### 🧬 **Research & Content Associate (Remote)** @ [AICE (AI Center of Excellence)](https://www.linkedin.com/)
 *Nov 2025 – Present*
-- Contributed to AI research documentation, technical content, and structured learning material for applied AI systems.
+<br/>
+- Contributed to AI research documentation, technical content, and structured learning material.
 - Assisted in designing content around **LLMs, RAG, Agentic AI**, and evaluation methodologies.
-- Collaborated with researchers and developers to translate complex AI concepts into clear technical documentation and reports.
-- Supported research-driven initiatives aligned with AI education and real-world applications.
+- Collaborated with researchers to translate complex AI concepts into clear technical reports.
 ### 🎥 **Video Annotation Specialist (Remote)** @ [Nexority](https://www.linkedin.com/)
 *Nov 2025 – Present*
+<br/>
 - Worked on large-scale video and vision dataset annotation for **AI/ML systems**.
-- Followed strict annotation guidelines, ensured inter-annotator consistency, and conducted quality assurance (QA) audits.
-- Supported model evaluation by identifying annotation gaps, edge cases, and data quality issues.
-- Gained hands-on exposure to real-world data collection challenges, dataset bias awareness, and performance validation.
+- Ensure inter-annotator consistency and conducted quality assurance (QA) audits.
+- Supported model evaluation by identifying annotation gaps and data quality issues.
 ---
 ## 🚀 Key Projects
-#### ✈️ Sky Sense – MCP-Based AI Flight Search System
-- Built a **Model Context Protocol (MCP)** server to enable AI assistants to search and compare features.
+#### ✈️ Sky Sense – MCP-Based AI Flight Search
+- Built a **Model Context Protocol (MCP)** server to enable AI assistants to search flight deals.
 - Integrated **Amadeus API** & **Google Flights (SerpAPI)**.
-- Designed tools for LLMs (e.g., Claude) to query pricing availability.
 - *Tech: Node.js, TypeScript, MCP, Amadeus API*
-#### 🔧 AI-Powered Welding Groove Analysis (YOLOv8)
-- Developed an AI-driven system using **YOLOv8-pose** for keypoint detection on U & V welding grooves.
+#### 🔧 AI-Powered Welding Groove Analysis
+- Developed an AI-driven system using **YOLOv8-pose** for keypoint detection.
 - Built a **Gradio** interface for visual analysis and volume computation.
 - *Tech: YOLOv8, Computer Vision, Gradio*
-#### 📄 Agentic AI–Based Question Paper Generation
+#### 📄 Agentic AI–Based Question Paper Generator
 - AI platform using **Grok, LangChain, and T5** to generate MCQs from PDFs.
 - Achieved **97% precision**, integrated Bloom’s Taxonomy.
 - *Tech: LangChain, T5, SpaCy*
 #### 🤖 AI-Powered RAG Chatbot
-- Designed a **Retrieval-Augmented Generation (RAG)** system for document Q&A.
+- Designed a **RAG** system for document Q&A using **Llama3**.
 - Implemented **FastAPI** backend and **Telegram** bot interface.
 - *Tech: Llama3, ChromaDB, Cloudflare Tunnel*
 ---
 ## 🎓 Education
-- **M.Tech – Computer Science Engineering (Big Data Analytics)**  
-  *Vellore Institute of Technology, Vellore | 2023 – 2025*
+- **M.Tech – Computer Science (Big Data Analytics)**  
+  *Vellore Institute of Technology | 2023 – 2025*
 - **B.E – Computer Science Engineering**  
-  *Rajalakshmi Engineering College, Chennai | 2019 – 2023*
+  *Rajalakshmi Engineering College | 2019 – 2023*
 ## 📜 Certifications
 - AWS Academy Cloud Foundations
 - Robotics Training Program (Texas Instruments)
@@ -103,10 +105,7 @@ Research & Content Associate with a completed **M.Tech in Computer Science (Big 
 <div align="center">
   <br/>
   <!-- Github Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=palaniprashanth01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E6E6E6&icon_color=61DAFB" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaniprashanth01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E6E6E6&text_color=B0B0B0" alt="Top Langs" width="48%" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palaniprashanth01&theme=radical&hide_border=true&background=0D1117&ring=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=palaniprashanth01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E6E6E6&icon_color=61DAFB" alt="GitHub Stats" width="60%" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
