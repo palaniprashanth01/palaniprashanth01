@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/palaniprashanth01">
+  <a href="https://www.linkedin.com/in/palani-prashanth-/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/palaniprashanth01">
