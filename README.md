@@ -93,36 +93,3 @@ Specializing in **LLMs, RAG Pipelines, and Computer Vision** to build applied AI
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palaniprashanth01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=palaniprashanth01&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaniprashanth01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-## ▼ Contributions 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/palaniprashanth01/palaniprashanth01/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/palaniprashanth01/palaniprashanth01/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/palaniprashanth01/palaniprashanth01/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" width="100%"/>
-</div>
