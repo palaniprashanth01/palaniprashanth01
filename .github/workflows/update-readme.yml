@@ -2,7 +2,7 @@ name: Update README with pinned repos
 
 on:
   schedule:
-    # Every 6 hours, on the hour
+    # Refresh pinned repos every 6 hours, on the hour
     - cron: '0 */6 * * *'
   workflow_dispatch:        # lets you trigger it manually from the Actions tab
   push:
