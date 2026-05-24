@@ -78,18 +78,9 @@ I'm based in **Kanchipuram, Tamil Nadu**, hold an **M.Tech in Big Data Analytics
 
 ### GitHub
 
-<div align="center">
-
-<a href="https://github.com/palaniprashanth01">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=palaniprashanth01&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=0F0F1A&icon_color=8B5CF6&text_color=ffffff&ring_color=8B5CF6&card_width=400" />
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaniprashanth01&layout=compact&hide_border=true&hide_title=true&bg_color=0F0F1A&text_color=ffffff&title_color=8B5CF6&langs_count=6&card_width=320" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palaniprashanth01&bg_color=0F0F1A&color=ffffff&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20activity" width="98%" />
-
-</div>
+- Profile: [github.com/palaniprashanth01](https://github.com/palaniprashanth01)
+- Repositories: [AI apps, RAG systems, MCP tools, and evaluation experiments](https://github.com/palaniprashanth01?tab=repositories)
+- Selected work above stays synced from pinned repositories.
 
 <br/>
 
