@@ -41,7 +41,54 @@ I'm based in **Kanchipuram, Tamil Nadu**, hold an **M.Tech in Big Data Analytics
 
 <!-- PINNED:START -->
 
-<p align="center"><sub><i>Pin some repositories on your GitHub profile and they'll appear here.</i></sub></p>
+<table>
+<tr><td width="50%" valign="top">
+
+#### [AI-Powered-Welding-Groove-Analysis-System-using-YOLOv8](https://github.com/palaniprashanth01/AI-Powered-Welding-Groove-Analysis-System-using-YOLOv8)
+
+An intelligent computer vision system that detects and analyzes welding grooves (V-groove, U-groove, etc.)…
+
+<sub>`Jupyter Notebook` &nbsp; · &nbsp; ★ 1 &nbsp; · &nbsp; ⑂ 0</sub>
+
+</td><td width="50%" valign="top">
+
+#### [Flight-deals-finder-using-Claude](https://github.com/palaniprashanth01/Flight-deals-finder-using-Claude)
+
+No description yet.
+
+<sub>`TypeScript` &nbsp; · &nbsp; ★ 0 &nbsp; · &nbsp; ⑂ 0</sub>
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+#### [macha-ai](https://github.com/palaniprashanth01/macha-ai)
+
+Code-mix writing tool for Indian creators — calibrated Hinglish/Tanglish rewrites with side-by-side naive b…
+
+<sub>`TypeScript` &nbsp; · &nbsp; ★ 0 &nbsp; · &nbsp; ⑂ 0</sub>
+
+</td><td width="50%" valign="top">
+
+#### [rag-telegram-bot](https://github.com/palaniprashanth01/rag-telegram-bot)
+
+An AI-powered Retrieval-Augmented Generation (RAG) system for document question-answering, deployed as a Te…
+
+<sub>`Jupyter Notebook` &nbsp; · &nbsp; ★ 0 &nbsp; · &nbsp; ⑂ 0</sub>
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+#### [skysense-ai](https://github.com/palaniprashanth01/skysense-ai)
+
+No description yet.
+
+<sub>`TypeScript` &nbsp; · &nbsp; ★ 0 &nbsp; · &nbsp; ⑂ 0</sub>
+
+</td><td width="50%" valign="top">
+
+
+</td></tr>
+</table>
 
 <!-- PINNED:END -->
 
